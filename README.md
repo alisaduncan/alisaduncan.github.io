@@ -1,40 +1,37 @@
-[This is a test](./test.md)
-[Test2](https://github.com/alisaduncan/alisaduncan.github.io/test.md)
+# About
+I'm a software engineer interested in an assortment of web technologies. I enjoy learning new things.
 
-## Welcome to GitHub Pages
+# Posts
+### Intercepting Http Requests-- Using And Testing Angular's HttpClient
+Posted to [The Practical Dev](https://dev.to/)
 
-You can use the [editor on GitHub](https://github.com/alisaduncan/alisaduncan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Link To Post](https://dev.to/alisaduncan/intercepting-http-requests---using-and-testing-angulars-httpclient)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link To Sample Application](https://alisaduncan.github.io/tutorial-angular-httpclient/)
 
-### Markdown
+# Interests
+Angular
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Material
 
-```markdown
-Syntax highlighted code block
+.NET Core
 
-# Header 1
-## Header 2
-### Header 3
+Microservces
 
-- Bulleted
-- List
+Creating Enterprise Applications
 
-1. Numbered
-2. List
+Automated Testing
 
-**Bold** and _Italic_ and `Code` text
+Software Development Process And Practices
 
-[Link](url) and ![Image](src)
-```
+# Repos
+[tutorial-angular-client](https://github.com/alisaduncan/tutorial-angular-httpclient)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alisaduncan/alisaduncan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+<div style="margin:auto;width:50%">
+    <a style="padding-left:20px;padding-right:20px;" href="https://github.com/alisaduncan"><img src="./assets/icons/GitHub-Mark-32px.png"></a>
+    <a style="padding-left:20px;padding-right:20px;" href="https://www.linkedin.com/in/jalisaduncan/"><img src="./assets/icons/In-Black-34px-R.png"></a>
+    <a style="padding-left:20px;padding-right:20px;" href="https://twitter.com/AlisaDuncan"><img src="./assets/icons/Twitter-32px.png"></a>
+    <a style="padding-left:20px;padding-right:20px;" href="https://dev.to/alisaduncan"><img style="width:40px;padding-bottom:6px;" src="./assets/icons/practical-dev.svg" ></a>
+</div>
